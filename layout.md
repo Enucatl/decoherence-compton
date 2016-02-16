@@ -1,1 +1,0 @@
-The_same_derivation_as_in__.tex
